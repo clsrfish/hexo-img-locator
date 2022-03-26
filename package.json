@@ -1,7 +1,7 @@
 {
   "name": "hexo-img-locator",
   "author": "clsrfish <clsrfish@gmail.com> https://clsrfish.github.io",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Replace relative image path in markdown with absolute one before build phrase",
   "keywords": [
     "hexo",
